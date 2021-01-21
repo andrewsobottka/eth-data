@@ -1,0 +1,1 @@
+This repository was created to store the contractData.json file. This file will maintain the list of relevant contract data (e.g. address, abi) for ethereum-based contracts.
