@@ -1,1 +1,2 @@
-This repository was created to store the contractData.json file. This file will maintain the list of relevant contract data (e.g. address, abi) for ethereum-based contracts.
+### Overview
+This repository stores the latest contractData.json file which contains a list of relevant contract data (e.g. symbol, address, abi, decimals) for ethereum-based contracts, including ERC20 tokens and application Smart Contracts.
